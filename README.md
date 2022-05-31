@@ -5,7 +5,7 @@ About the criteria: Most popular - with popularity based on stars, watchers, and
 
 About the criteria: Most popular original work (unforked repositories) --> I use Star to rate for the original work.
 
-Next, my deploy app: https://githubrepossearch.netlify.app
+Next, my deployed app: https://githubrepossearch.netlify.app
 
 And finally, if you want to render my react app: you need to : npm install react-icons
 
